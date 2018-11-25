@@ -100,4 +100,3 @@ driver.find_element_by_xpath('//*[@id="ember964"]/div[4]/div/div[4]/div[2]/butto
 #save submit
 
 driver.quit()6
-#uuyuyuyuy
