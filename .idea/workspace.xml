@@ -23,26 +23,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="30" />
+          <entry key="py" value="34" />
           <entry key="test" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
-          <entry key="Scratch" value="23" />
+          <entry key="Python" value="13" />
+          <entry key="Scratch" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="py" value="6517" />
+          <entry key="py" value="7040" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Scratch" value="6517" />
+          <entry key="Python" value="29" />
+          <entry key="Scratch" value="7011" />
         </counts>
       </usages-collector>
     </session>
@@ -52,16 +53,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Class_03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="414">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <marker date="1540146875981" expanded="true" signature="91:92" ph="..." />
-                <marker date="1540146875981" expanded="true" signature="293:300" ph="..." />
-                <marker date="1540146875981" expanded="true" signature="586:593" ph="..." />
-                <marker date="1540146875981" expanded="true" signature="586:615" ph="..." />
+                <marker date="1542569360849" expanded="true" signature="0:1004" ph="..." />
+                <marker date="1542569360849" expanded="true" signature="91:92" ph="..." />
+                <marker date="1542569360849" expanded="true" signature="293:300" ph="..." />
+                <marker date="1542569360849" expanded="true" signature="578:583" ph="..." />
+                <marker date="1542569360849" expanded="true" signature="578:605" ph="..." />
               </folding>
             </state>
           </provider>
@@ -70,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Class_05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="25" column="88" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
+            <state relative-caret-position="344">
+              <caret line="46" selection-start-line="46" selection-end-line="46" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -81,11 +83,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Automating  BuyMe  website - Pro01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+            <state relative-caret-position="478">
+              <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
               <folding>
                 <element signature="e#27#38#0" expanded="true" />
               </folding>
@@ -111,6 +113,9 @@
       <replace>shooky</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -120,7 +125,6 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/ewfef.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Second class.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/test" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/Class_03.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Assignment 03.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Assignment04.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Assignment05.py" />
@@ -128,16 +132,19 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Class_05.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/select.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Class_07.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/Class_03.py" />
+        <option value="$USER_HOME$/Documents/GitHub/Class_02/Class_02/__init__.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/Automating  BuyMe  website - Pro01.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="499" />
-    <option name="y" value="-7" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -147,6 +154,15 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="Class_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Class_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Class_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Class_02" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="Class_02" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
@@ -185,7 +201,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Automating  BuyMe  website - Pro01">
-    <configuration name="Assignment05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Automating  BuyMe  website - Pro01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa30464.11394" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/Assignment05.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa30464.11394/Automating  BuyMe  website - Pro01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,6 +243,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Class_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class_02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/Class_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Class_05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_02" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,27 +277,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/Class_05.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Class_02" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,19 +307,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.Class_05" />
-      <item itemvalue="Python.Assignment05" />
       <item itemvalue="Python.Automating  BuyMe  website - Pro01" />
       <item itemvalue="Python.webelement" />
+      <item itemvalue="Python.Class_03" />
+      <item itemvalue="Python.Automating  BuyMe  website - Pro01 (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Automating  BuyMe  website - Pro01" />
+        <item itemvalue="Python.Automating  BuyMe  website - Pro01 (1)" />
+        <item itemvalue="Python.Class_03" />
         <item itemvalue="Python.webelement" />
         <item itemvalue="Python.Class_05" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Assignment05" />
       </list>
     </recent_temporary>
   </component>
@@ -384,9 +400,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Class_02/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ewfef.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -405,13 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/class_02_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -477,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Class_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="25" column="88" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -506,9 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Class_07.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -523,25 +519,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Automating  BuyMe  website - Pro01.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa30464.11394/Automating  BuyMe  website - Pro01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        <state relative-caret-position="181">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Class_07.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Class_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#27#38#0" expanded="true" />
+            <marker date="1542569360849" expanded="true" signature="0:1004" ph="..." />
+            <marker date="1542569360849" expanded="true" signature="91:92" ph="..." />
+            <marker date="1542569360849" expanded="true" signature="293:300" ph="..." />
+            <marker date="1542569360849" expanded="true" signature="578:583" ph="..." />
+            <marker date="1542569360849" expanded="true" signature="578:605" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Class_03.py">
+    <entry file="file://$PROJECT_DIR$/Class_02/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/class_02_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="340">
+          <caret line="20" column="23" lean-forward="true" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/Class_02/Class_02/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Class_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="46" selection-start-line="46" selection-end-line="46" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Automating  BuyMe  website - Pro01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
           <folding>
-            <marker date="1540146875981" expanded="true" signature="91:92" ph="..." />
-            <marker date="1540146875981" expanded="true" signature="293:300" ph="..." />
-            <marker date="1540146875981" expanded="true" signature="586:593" ph="..." />
-            <marker date="1540146875981" expanded="true" signature="586:615" ph="..." />
+            <element signature="e#27#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
